@@ -70,4 +70,4 @@ MusicPlaylistApp/
 ## Screen Shots
 
 ### 🎵 Music Playlist App
-<img src="./music .png" alt="Main Window" width="500"/>
+<img src="./music.png" alt="Main Window" width="500"/>
